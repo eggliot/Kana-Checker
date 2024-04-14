@@ -1,6 +1,7 @@
 # Kana Checker
-A simple tool to check if you correctly translated Japanses Hiragana to Romanji or vice versa.
-
+A simple tool to check if you correctly translated Japanses Hiragana to Romanji or vice versa. <br>
+Created to check Tofugu's practice Hiragana worsheets. <br>
+https://www.tofugu.com/japanese/learn-hiragana/
 ## Description
 Provided a comma delimited string of Japanese Hiragana and Romanji, the program will check if the translation is correct. <br>
 
