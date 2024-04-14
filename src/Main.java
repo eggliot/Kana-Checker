@@ -1,11 +1,9 @@
 public class Main {
     /**
      * Run main to use test cases, otherwise use KanaCheck.main and provide it input from the terminal
-     * @param args test cases array
+     * @param args not used
      */
     public static void main(String[] args) {
-        KanaCheck kanaCheck = new KanaCheck();
-
         // Test cases
         String CaseA = "So,N,Ta,I,No,Ra,wo,To,Ra,Ya,U,Ho,Ru,Sa,Tsu,Ha,そ,ん,た,い,の,ら,を,と,ら,や,う,ほ,る,さ,つ,は,"; // ending comma
         String CaseB = ",So,N,Ta,I,No,Ra,wo,To,Ra,Ya,U,Ho,Ru,Sa,Tsu,Ha,そ,ん,た,い,の,ら,を,と,ら,や,う,ほ,る,さ,つ,は"; // beginning comma
